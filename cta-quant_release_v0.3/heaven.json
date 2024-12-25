@@ -1,0 +1,14 @@
+{
+    "strategy": "heaven_cta_demo",
+    "api": "123",
+    "secret": "dsv",
+    "exchange": "binance",
+    "is_pm": true,
+    "trade_type": "future",
+    "debug": true,
+    "need_proxy": false,
+    "bnb_commission": 0.05,
+    "twap_amount": 1000,
+    "cta_tpsl_time": "10s",
+    "pos_infer": true
+}

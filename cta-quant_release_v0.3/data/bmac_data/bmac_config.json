@@ -1,0 +1,13 @@
+{
+    "interval": "5m",
+    "trade_type": "usdt_perp",
+    "funding_rate": true,
+    "num_candles": 100000,
+    "candle_close_timeout_sec": 35,
+    "dingding": {
+        "error": {
+            "access_token": "f06...",
+            "secret": "SEC439..."
+        }
+    }
+}

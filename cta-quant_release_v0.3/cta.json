@@ -1,0 +1,12 @@
+{
+    "apps": {
+        "name": "bmac",
+        "script": "/root/anaconda3/envs/cta_quant/bin/python",
+        "error_file": "/root/binance/logs/bmac/bmac.err.log",
+        "out_file": "/root/binance/logs/bmac/bmac.out.log",
+        "log_date_format": "YYYY/MM/DD HH:mm:ss",
+        "args": [
+            "/root/cta-quant/bmac_starter.py"
+        ]
+    }
+}

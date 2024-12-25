@@ -1,0 +1,15 @@
+{
+    "strategy": "cta_demo_01",
+    "api": "",
+    "secret": "",
+    "exchange": "binance",
+    "is_pm": true,
+    "trade_type": "future",
+    "debug": true,
+    "need_proxy": false,
+    "bnb_commission": 0.05,
+    "twap_amount": 1000,
+    "pos_infer": true,
+    "cta_tpsl_time": "10s",
+    "cta_stoploss_inside_bar": true
+}
